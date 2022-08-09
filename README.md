@@ -6,8 +6,8 @@ https://colab.research.google.com/drive/1jwLQPYk2r3zH-u4HkZjLe_Ris_S9zIHx#scroll
 
 The currency to predict can be chosen in the block #5 by setting the parameter RATIO_TO_PREDICT to the corresponding reference.
 
-Currency      : Reference
-BitCoin Cash  : "BCH-USD",
-BitCoin       : "BTC-USD",
-Ethereum      : "ETH-USD",
+Currency      : Reference;
+BitCoin Cash  : "BCH-USD";
+BitCoin       : "BTC-USD";
+Ethereum      : "ETH-USD";
 Litecoin      : "LTC-USD".
